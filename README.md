@@ -2,12 +2,15 @@
 **Sleep Disorder Prediction**
 
 **Aim of the Project:**
+
 The main objective of this project is to analyze various lifestyle and medical factors, such as age, BMI, physical activity, sleep duration, blood pressure, etc., in order to predict the presence and type of sleep disorder.
 
 **About the Dataset:**
+
 The Sleep Health and Lifestyle Dataset consists of 400 rows and 13 columns, encompassing a wide range of variables related to sleep and daily habits. It includes information like gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and whether a sleep disorder is present.
 
 **Key Features of the Dataset:**
+
 	Comprehensive Sleep Metrics: The dataset provides insights into sleep duration, quality, and factors influencing sleep patterns.
 
 	Lifestyle Factors: It allows the analysis of physical activity levels, stress levels, and BMI categories, shedding light on their impact on sleep.
