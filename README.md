@@ -43,7 +43,7 @@ Model Building - Random Forest Classifier and Decision Tree Classifier:
 A Random Forest Classifier model is created using the RandomForestClassifier class from scikit-learn. The `n_estimators` parameter specifies the number of decision trees in the forest, and `n_jobs` specifies the number of jobs to run in parallel for fitting.
 A Decision Tree Classifier model is created using the DecisionTreeClassifier class from scikit-learn.
 
-Model Evaluation - 
+Model Evaluation
 Confusion Matrix and Accuracy: The confusion matrix and accuracy score are computed using scikit-learn's `confusion_matrix` and `accuracy_score` functions. The confusion matrix is visualized using a heatmap from Seaborn. A Random Forest Classifier model achieves 92% accuracy and Decision Tree Classifier model achieves 90% accuracy.
 
 Visualization - Actual vs. Predicted Values: 
