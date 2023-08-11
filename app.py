@@ -1,11 +1,11 @@
 #pip install streamlit
 
 import streamlit as st
-import joblib
+import pickle
 import pandas as pd
 
 # Load the trained model
-model = joblib.load("model.pkl")
+model = pickle.load(open("model.pkl",'rb'))
 
 # Create Streamlit app
 st.title("Sleep Disorder Prediction")
